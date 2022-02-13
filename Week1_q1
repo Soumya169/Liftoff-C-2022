@@ -1,7 +1,7 @@
 include<stdio.h>
 int main()
 {
-        char a[40],b[100],c[30];
+        char a[40],b[20],c[30];
         int R;        
         printf("\n Enter Your Name:");
         scanf("%s",a);
