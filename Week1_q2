@@ -11,7 +11,7 @@ int main()
     }
      else if(b>a)
     {
-        printf("\n %d is the maximum number \n",b);
+        printf("%d is the maximum number \n",b);
     }
      else
     {
