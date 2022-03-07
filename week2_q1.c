@@ -1,7 +1,8 @@
 #include <stdio.h>
 #include <string.h>
 
-int main(){
+int main()
+{
     char str1[30], str2[30]; 
     printf("Enter a String:\n");  
     gets(str1); 
